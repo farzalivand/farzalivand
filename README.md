@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/farzalivand/assets/blob/main/Screenshot_20250516_132913.jpg" width="400" height="380" alt="Hossein Farzalivand" style="border-radius: 50%;" />
+  <img src="https://github.com/farzalivand/assets/blob/main/Screenshot_20250516_132913.jpg" width="400" height="380" alt="Hossein Farzalivand" style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; border: 2px solid #ccc; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"
+ />
 </p>
 
 
