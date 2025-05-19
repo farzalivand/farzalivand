@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/farzalivand.png" width="150" alt="Hossein Farzalivand" style="border-radius: 50%;" />
+</p>
+
+
 # 👋 سلام! من حسین فرضعلی‌وند هستم
 
 ## 👨‍💻 توسعه‌دهنده فرانت‌اند | پژوهشگر هوش مصنوعی | عاشق طبیعت 🌿
