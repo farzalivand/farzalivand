@@ -1,2 +1,2 @@
 #رزومه آنلاین حسین فرضعلی وند
-https://farzalivand.github.io/Portfolio/
+https://farzalivand.github.io/farzalivand/
